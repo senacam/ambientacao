@@ -54,7 +54,7 @@
 
 				</div>
 
-			  <div class="col-xs-6 col-md-4" style="height:550px;overflow:auto;" id="menu_slide">
+			  <div class="col-xs-6 col-md-4" style="height:450px;overflow:auto;" id="menu_slide">
 			  	 
 			  	<!-- **************************************MENU ACCORDION********************************* -->
 			  		<div id="accordion">

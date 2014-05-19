@@ -1,5 +1,5 @@
   <!--HOME - SISTEMA -->	
-  <div class="col-xs-12 col-md-8" id="ambiente" style="overflow:auto;height:550px;"></div>
+  <div class="col-xs-12 col-md-8" id="ambiente" style="overflow:auto;height:450px;"></div>
 <div class="col-md-12 col-md-offset 13 bg-primary" > 
 <!--CONTROLE --><center>
 	
