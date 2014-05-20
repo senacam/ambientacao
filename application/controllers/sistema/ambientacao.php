@@ -121,7 +121,13 @@ class Ambientacao extends CI_Controller {
 		 	echo $e->getMessage();
 		 }
 		}
+		
+		
+		public function sair(){
 
+			$this->session->sess_destroy();
+			redirect();
+		}
 		/*public function corrige(){
 
 			$resposta 	    = $this->input->post('conteudo');
