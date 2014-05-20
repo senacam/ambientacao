@@ -46,7 +46,7 @@
 					<ol class="breadcrumb">
 						  
 						
-						    <li class="active"><?php echo "Ambientação Senac-AM"."    <strong>Usuário:</strong> ".$this->session->userdata('nome'); ?></li>		
+						    <li class="active"><?php echo "Ambientação Senac-AM"."    <strong>Usuário:</strong> ".$this->session->userdata('nome').nbs(10); ?><a href="<?=base_url(); ?>/sistema/ambientacao/sair">Sair</a> </li>		
 						
 						 							 
 
