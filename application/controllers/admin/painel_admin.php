@@ -204,6 +204,12 @@ JAVASCRIPT;
 	}
 	
 
+	public function testequestoes(){
+
+
+		echo "teste";
+	}
+
 	
 
 	/***********************END********************************/
