@@ -109,7 +109,7 @@
  	<!--End Custon -->
  	<script type="text/javascript">
  			$(function(){
-
+				$('#accordion').accordion({ collapsible: true, autoHeight: false });
  				$('.subMenu').click(function(){
  					
  					var href = $(this).attr('href');
