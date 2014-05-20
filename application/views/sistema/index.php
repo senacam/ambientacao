@@ -315,7 +315,7 @@
 				 						  },
 				 						  error: function(xhr, textStatus, errorThrown) {
 				 						    //called when there is an error
-				 						    alert('error');
+				 						    alert('');
 				 						  }
 				 						});					
 
